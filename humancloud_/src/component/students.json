@@ -1,0 +1,29 @@
+{
+  "Topper Student": [
+    { "name": "Rahul Wagh", "percentage": "98%" },
+    { "name": "Rohan Singh", "percentage": "98%" },
+    { "name": "Priya Sharma", "percentage": "97%" },
+    { "name": "Aditya Desai", "percentage": "95%" },
+    { "name": "Neha Gupta", "percentage": "94%" },
+    { "name": "Madhuri Yadav", "percentage": "92%" },
+    { "name": "Devendra Singh", "percentage": "99%" }
+  ],
+  "Average Student": [
+    { "name": "Neha Agarwal", "percentage": "74%" },
+    { "name": "Madhuri Singh", "percentage": "72%" },
+    { "name": "Devendra Agarwal", "percentage": "70%" },
+      { "name": "Rahul Wagh", "percentage": "72%" },
+      { "name": "Rohan Singh", "percentage": "74%" },
+      { "name": "Priya Sharma", "percentage": "73%" },
+      { "name": "Aditya Desai", "percentage": "75%" }
+   
+  ],
+  "Below Average Student": [
+    { "name": "Aryan Gupta", "percentage": "60%" },
+    { "name": "Rhea Yadav", "percentage": "58%" },
+    { "name": "Rahul Wagh", "percentage": "42%" },
+      { "name": "Rohini Sharma", "percentage": "44%" },
+      { "name": "Priyaka Singh", "percentage": "53%" },
+      { "name": "Aditi Wagh", "percentage": "35%" }
+  ]
+}
